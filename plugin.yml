@@ -1,6 +1,6 @@
 name: CPS
-main: Echnotical889\CPS\CPS
+main: JackMD\CPS\CPS
 api: [3.11.4]
 version: 1.0.0
 description: A simple plugin which checks the clicks of a player per second.
-authors: [Echnotical889]
+authors: [JackMD]
