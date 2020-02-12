@@ -27,6 +27,3 @@ $clicks = $cps->getClicks($player);
 ### Credits
 [DaPigGuy](https://github.com/DaPigGuy) for most of the code.
 
-============================================================================
-= NOTE = THIS IS A NEW VERSION FOR NEW POCKETMINE API (3.11.4) ! THANK YOU =
-============================================================================
